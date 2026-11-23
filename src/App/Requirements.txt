@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+librosa
+jupyter
+gradio
+sounddevice
+soundfile
+prometheus-client
